@@ -1,4 +1,4 @@
-![image](https://github.com/Martinsmpz/Martinsmpz/assets/100144190/81e0896e-7709-4eb6-aee2-7dbf1420bd80)<div>
+<div>
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
