@@ -28,8 +28,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="php" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png">
-  <img align="center" alt="php" height="30" width="40" src="![image](https://github.com/Martinsmpz/Martinsmpz/assets/100144190/264d95d0-3e68-4c66-b6d8-2e5f13e1dc3a)
-">
+  <img align="center" alt="php" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png">
   <img align="center" alt="mysql" height="30" width="40" src="https://altyra.com/wp-content/uploads/2018/11/mysql-logo-png-transparent.png">
   
  <!-- <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">-->
