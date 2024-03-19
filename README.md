@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e gosto muito de compartilhar meu conhecimento e aprendizado.
+    Sou Desenvolvedor Full-Stack e gosto muito de compartilhar meu conhecimento e aprendizado.
     
   </p>
   
