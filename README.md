@@ -25,7 +25,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <!--<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-->
   <img align="center" alt="php" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png">
-  <img align="center" alt="node" height="30" width="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png">
+  <img align="center" alt="node" height="30" width="40" src="[https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png](https://img.icons8.com/color/600/spring-logo.png)">
     <img align="center" alt="node" height="30" width="40" src="https://static-00.iconduck.com/assets.00/java-icon-227x256-913nazt0.png">
 
   
