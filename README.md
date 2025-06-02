@@ -23,8 +23,9 @@
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="php" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png">
-    <img align="center" alt="node" height="30" width="40" src="https://static-00.iconduck.com/assets.00/java-icon-227x256-913nazt0.png">
+<img align="center" alt="php" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1280px-PHP-logo.svg.png">Add commentMore actions
+  <img align="center" alt="node" height="30" width="40" src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png">   
+  <img align="center" alt="node" height="30" width="40" src="https://static-00.iconduck.com/assets.00/java-icon-227x256-913nazt0.png">
 
   
  <!-- <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">-->
