@@ -5,7 +5,7 @@
 
 <div align="center">
   <p>
-    💻 Especializado em backend com <strong>Node.js</strong>, <strong>Java Spring</strong> e <strong>Laravel</strong>,<br/>
+    💻 Especializado em FullStack com <strong>Node.js</strong>, <strong>Java Spring</strong>, <strong> React JS </strong> <strong>Laravel</strong>,<br/>
     🔗 Experiência com integrações, APIs RESTful, bancos de dados SQL/NoSQL,<br/>
     ⚙️ Boas práticas de código, organização por camadas e Git para versionamento.
   </p>
