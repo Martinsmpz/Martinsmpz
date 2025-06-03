@@ -14,15 +14,6 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/Martinsmpz">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Martinsmpz&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martinsmpz&theme=dracula&hide_border=false&layout=compact"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
   <!-- Tech icons -->
   <img align="center" alt="Java Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
