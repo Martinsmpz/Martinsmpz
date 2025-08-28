@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Olá! Eu sou o <a href="https://www.linkedin.com/in/gabriel-martins-de-almeida-236327225/" target="_blank">Gabriel Martins</a></h1>
-  <p>Desenvolvedor Full Stack focado em criar soluções robustas e escaláveis.</p>
+  <p>Desenvolvedor Back-end focado em criar soluções robustas e escaláveis.</p>
 </div>
 
 <div align="center">
